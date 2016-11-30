@@ -1,0 +1,3 @@
+C:/Users/juanbazooka/ClionProjects/actII2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/juanbazooka/ClionProjects/actII2/cmake-build-debug/CMakeFiles/actII2.dir
+C:/Users/juanbazooka/ClionProjects/actII2/cmake-build-debug/CMakeFiles/edit_cache.dir
